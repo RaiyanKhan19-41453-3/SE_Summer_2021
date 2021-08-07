@@ -3,7 +3,7 @@ import java.util.Scanner;
 import classes.*;
 import fileio.*;
 //hello?
-
+//forgot to finish it
 public class Start
 {
 	public static void main(String args[])
